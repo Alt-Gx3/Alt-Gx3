@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div style="width: 300px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alt-Gx3&show_icons=true&hide=contribs,prs&theme=transparent&text_color=080808" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alt-Gx3&show_icons=true&hide=contribs,prs&theme=transparent&text_color=f6f6f6" alt="Top Langs" />
 </div>
 
 <!--
