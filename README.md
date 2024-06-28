@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-<a href="mailto:antonioaltino.iesp@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
 <!--
 **Alt-Gx3/Alt-Gx3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
