@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<div style="width: 200px;">
+<div style="width: 300px;">
   <img src="https://github-readme-stats.vercel.app/api?username=Alt-Gx3&show_icons=true&hide=contribs,prs&theme=transparent" alt="Top Langs" />
 </div>
 
