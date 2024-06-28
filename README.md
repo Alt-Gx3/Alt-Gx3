@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div style="width: 200px;">
-<a href="https://github.com/Alt-Gx3/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=Alt-Gx3" alt="Top Langs" />
 </a>
 </div>
