@@ -1,9 +1,9 @@
 ## Hello Everybody 👋😄
 
 <div style="width: 300px;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+<!--   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=Alt-Gx3&show_icons=true&hide=contribs,prs&theme=transparent&text_color=f6f6f6&hide_border=true&" alt="Top Langs" />
-  </a>
+  </a> -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,python" />
   </a>
